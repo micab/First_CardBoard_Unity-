@@ -1,2 +1,2 @@
 # First_CardBoard_Unity-
-Hello word CardBoard
+Hello word CardBoard  step_1
